@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9840858B-7BB7-429F-8EBD-58A3DECD22AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBankAPI.Domain", "Core\Domain\OpenBankAPI.Domain.csproj", "{C1B5419A-EA39-404B-9B75-93C33BF15D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBankAPI.Application", "Core\OpenBankAPI.Application\OpenBankAPI.Application.csproj", "{4198364E-9D4F-4606-A186-E0427A197D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5DC0FECA-8787-4963-8677-E8DCDAC0F607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBankAPI.Infrastructure", "Infrastructure\OpenBank.Infrastructure\OpenBankAPI.Infrastructure.csproj", "{B0AC41D8-C715-46CD-AB80-C86C23A06689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBankAPI.Persistence", "Infrastructure\OpenBankAPI.Persistence\OpenBankAPI.Persistence.csproj", "{C8810F81-3F14-49BC-BDF4-0CE4B314C425}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3C75B754-C26B-45A4-B5F7-83F1336EFC47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBankAPI.API", "Presentation\OpenBankAPI.API\OpenBankAPI.API.csproj", "{02BB319F-D89D-473B-8383-666A30718B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B5419A-EA39-404B-9B75-93C33BF15D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B5419A-EA39-404B-9B75-93C33BF15D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B5419A-EA39-404B-9B75-93C33BF15D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B5419A-EA39-404B-9B75-93C33BF15D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4198364E-9D4F-4606-A186-E0427A197D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4198364E-9D4F-4606-A186-E0427A197D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4198364E-9D4F-4606-A186-E0427A197D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4198364E-9D4F-4606-A186-E0427A197D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AC41D8-C715-46CD-AB80-C86C23A06689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AC41D8-C715-46CD-AB80-C86C23A06689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AC41D8-C715-46CD-AB80-C86C23A06689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AC41D8-C715-46CD-AB80-C86C23A06689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8810F81-3F14-49BC-BDF4-0CE4B314C425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8810F81-3F14-49BC-BDF4-0CE4B314C425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8810F81-3F14-49BC-BDF4-0CE4B314C425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8810F81-3F14-49BC-BDF4-0CE4B314C425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BB319F-D89D-473B-8383-666A30718B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BB319F-D89D-473B-8383-666A30718B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BB319F-D89D-473B-8383-666A30718B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BB319F-D89D-473B-8383-666A30718B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C7ADF1-1F86-4DFA-AFAA-777020BFEAF1}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1B5419A-EA39-404B-9B75-93C33BF15D3C} = {9840858B-7BB7-429F-8EBD-58A3DECD22AF}
+		{4198364E-9D4F-4606-A186-E0427A197D89} = {9840858B-7BB7-429F-8EBD-58A3DECD22AF}
+		{B0AC41D8-C715-46CD-AB80-C86C23A06689} = {5DC0FECA-8787-4963-8677-E8DCDAC0F607}
+		{C8810F81-3F14-49BC-BDF4-0CE4B314C425} = {5DC0FECA-8787-4963-8677-E8DCDAC0F607}
+		{02BB319F-D89D-473B-8383-666A30718B45} = {3C75B754-C26B-45A4-B5F7-83F1336EFC47}
+	EndGlobalSection
+EndGlobal

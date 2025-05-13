@@ -1,0 +1,556 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/OpenBankAPI.API.csproj": {}
+  },
+  "projects": {
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj",
+        "projectName": "OpenBankAPI.Domain",
+        "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj",
+        "packagesPath": "/Users/iremnur/.nuget/packages/",
+        "outputPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj",
+        "projectName": "OpenBankAPI.Application",
+        "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj",
+        "packagesPath": "/Users/iremnur/.nuget/packages/",
+        "outputPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.69.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/OpenBankAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/OpenBankAPI.Infrastructure.csproj",
+        "projectName": "OpenBankAPI.Infrastructure",
+        "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/OpenBankAPI.Infrastructure.csproj",
+        "packagesPath": "/Users/iremnur/.nuget/packages/",
+        "outputPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj"
+              },
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/OpenBankAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/OpenBankAPI.Persistence.csproj",
+        "projectName": "OpenBankAPI.Persistence",
+        "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/OpenBankAPI.Persistence.csproj",
+        "packagesPath": "/Users/iremnur/.nuget/packages/",
+        "outputPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj"
+              },
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.69.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/OpenBankAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/OpenBankAPI.API.csproj",
+        "projectName": "OpenBankAPI.API",
+        "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/OpenBankAPI.API.csproj",
+        "packagesPath": "/Users/iremnur/.nuget/packages/",
+        "outputPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/Domain/OpenBankAPI.Domain.csproj"
+              },
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Core/OpenBankAPI.Application/OpenBankAPI.Application.csproj"
+              },
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/OpenBankAPI.Infrastructure.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/OpenBankAPI.Infrastructure.csproj"
+              },
+              "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/OpenBankAPI.Persistence.csproj": {
+                "projectPath": "/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/OpenBankAPI.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.AssemblyInfo.cs
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net8.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cache

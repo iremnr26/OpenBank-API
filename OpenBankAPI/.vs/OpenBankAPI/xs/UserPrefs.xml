@@ -1,0 +1,89 @@
+﻿<Properties StartupConfiguration="{02BB319F-D89D-473B-8383-666A30718B45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/OpenBankAPI.Application/Features/Commands/AppUser/CreateUser/CreateUserCommandHandler.cs">
+    <Files>
+      <File FileName="Infrastructure/OpenBank.Infrastructure/Services/Exchange/ExchangeRateService.cs" Line="25" Column="18" />
+      <File FileName="Presentation/OpenBankAPI.API/Program.cs" Line="131" Column="1" />
+      <File FileName="Presentation/OpenBankAPI.API/Controllers/ExchangeController.cs" Line="24" Column="14" />
+      <File FileName="Presentation/OpenBankAPI.API/appsettings.json" Line="28" Column="31" />
+      <File FileName="Presentation/OpenBankAPI.API/Controllers/TransactionController.cs" Line="62" Column="46" />
+      <File FileName="Presentation/OpenBankAPI.API/Controllers/AccountController.cs" Line="20" Column="43" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/Transaction/ITransactionReadRepository.cs" Line="6" Column="56" />
+      <File FileName="Core/OpenBankAPI.Application/Features/Queries/GetAllTransactions/GetAllTransactionsQueryHandler.cs" Line="10" Column="6" />
+      <File FileName="Core/OpenBankAPI.Application/Features/Queries/GetAllAccounts/GetAllAccountsQueryHandler.cs" Line="34" Column="89" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/Transaction/ITransactionWriteRepository.cs" Line="6" Column="59" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/Account/IAccountReadRepository.cs" Line="1" Column="1" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/Account/IAccountWriteRepository.cs" Line="6" Column="41" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/IWriteRepository.cs" Line="15" Column="43" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/IReadRepository.cs" Line="8" Column="47" />
+      <File FileName="Core/OpenBankAPI.Application/Repositories/IRepository.cs" Line="1" Column="1" />
+      <File FileName="Core/OpenBankAPI.Application/Abstraction/ITransactionService.cs" Line="8" Column="42" />
+      <File FileName="Core/OpenBankAPI.Application/Abstraction/IAccountService.cs" Line="1" Column="1" />
+      <File FileName="Presentation/OpenBankAPI.API/Controllers/AuthController.cs" Line="24" Column="34" />
+      <File FileName="Core/OpenBankAPI.Application/Abstraction/IAuthService.cs" Line="1" Column="1" />
+      <File FileName="Core/OpenBankAPI.Application/Abstraction/Token/ITokenHandler.cs" Line="8" Column="25" />
+      <File FileName="Core/OpenBankAPI.Application/Features/Commands/AppUser/CreateUser/CreateUserCommandHandler.cs" Line="28" Column="45" />
+      <File FileName="Core/OpenBankAPI.Application/Features/Commands/AppUser/LoginUser/LoginUserCommandHandler.cs" Line="17" Column="52" />
+      <File FileName="Core/OpenBankAPI.Application/Abstraction/Services/IInternalAuthentication.cs" Line="6" Column="26" />
+      <File FileName="Infrastructure/OpenBankAPI.Persistence/Services/AuthService.cs" Line="64" Column="52" />
+      <File FileName="Infrastructure/OpenBank.Infrastructure/Services/Token/TokenHandler.cs" Line="52" Column="58" />
+      <File FileName="Infrastructure/OpenBankAPI.Persistence/ServiceRegistration.cs" Line="21" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenBankAPI" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="OpenBankAPI.Application">
+                <Node name="Features" expanded="True">
+                  <Node name="Commands" expanded="True">
+                    <Node name="AppUser" expanded="True" />
+                  </Node>
+                  <Node name="Queries" expanded="True" />
+                </Node>
+                <Node name="Repositories" expanded="True">
+                  <Node name="Account" expanded="True" />
+                  <Node name="Transaction" expanded="True" />
+                  <Node name="User" expanded="True" />
+                </Node>
+                <Node name="RequestParameters" expanded="True" />
+              </Node>
+              <Node name="OpenBankAPI.Domain" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="Identity" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="OpenBankAPI.Infrastructure">
+                <Node name="Filter" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Token" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="OpenBankAPI.Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Repositories" expanded="True">
+                  <Node name="Account" expanded="True" />
+                  <Node name="Transaction" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.OpenBankAPI.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/Controllers/AccountController.cs" relfile="Presentation/OpenBankAPI.API/Controllers/AccountController.cs" line="43" column="1" />
+      <Breakpoint enabled="false" file="/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/Controllers/AccountController.cs" relfile="Presentation/OpenBankAPI.API/Controllers/AccountController.cs" line="84" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,57 @@
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.deps.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.runtimeconfig.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.genruntimeconfig.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.deps.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.runtimeconfig.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.genruntimeconfig.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.deps.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.runtimeconfig.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/ref/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Infrastructure/OpenBank.Infrastructure/obj/Debug/net6.0/OpenBankAPI.Infrastructure.genruntimeconfig.cache

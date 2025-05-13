@@ -1,0 +1,11 @@
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/bin/Debug/net8.0/OpenBankAPI.Domain.deps.json
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/bin/Debug/net8.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/bin/Debug/net8.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.AssemblyInfo.cs
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/refint/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/Domain/obj/Debug/net8.0/ref/OpenBankAPI.Domain.dll

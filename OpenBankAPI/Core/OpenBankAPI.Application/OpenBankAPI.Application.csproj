@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\OpenBankAPI.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Abstraction\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Account\" />
+    <None Remove="Repositories\Bank\" />
+    <None Remove="Repositories\User\" />
+    <None Remove="Repositories\Transaction\" />
+    <None Remove="Helpers\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\Accounts\" />
+    <None Remove="Validators\" />
+    <None Remove="Validators\Accounts\" />
+    <None Remove="Enums\" />
+    <None Remove="Features\" />
+    <None Remove="Features\Commands\" />
+    <None Remove="Features\Commands\AppUser\" />
+    <None Remove="Features\Commands\AppUser\CreateUser\" />
+    <None Remove="Features\Queries\" />
+    <None Remove="Features\Queries\GetAllAccounts\" />
+    <None Remove="RequestParameters\" />
+    <None Remove="DTOs\" />
+    <None Remove="DTOs\User\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Features\Commands\AppUser\LoginUser\" />
+    <None Remove="Abstraction\Token\" />
+    <None Remove="Abstraction\Services\" />
+    <None Remove="Features\Commands\AppUser\GoggleLogin\" />
+    <None Remove="Features\Commands\AppUser\RefreshTokenLogin\" />
+    <None Remove="Features\Commands\CreateTransaction\" />
+    <None Remove="Features\Queries\GetAllTransactions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstraction\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Account\" />
+    <Folder Include="Repositories\Bank\" />
+    <Folder Include="Repositories\User\" />
+    <Folder Include="Repositories\Transaction\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\Accounts\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Validators\Accounts\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\Commands\" />
+    <Folder Include="Features\Commands\AppUser\" />
+    <Folder Include="Features\Commands\AppUser\CreateUser\" />
+    <Folder Include="Features\Queries\" />
+    <Folder Include="Features\Queries\GetAllAccounts\" />
+    <Folder Include="RequestParameters\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\User\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Features\Commands\AppUser\LoginUser\" />
+    <Folder Include="Abstraction\Token\" />
+    <Folder Include="Abstraction\Services\" />
+    <Folder Include="Features\Commands\AppUser\GoggleLogin\" />
+    <Folder Include="Features\Commands\AppUser\RefreshTokenLogin\" />
+    <Folder Include="Features\Commands\CreateTransaction\" />
+    <Folder Include="Features\Queries\GetAllTransactions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.12">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.12" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.12">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="6.0.1" />
+    <PackageReference Include="MediatR" Version="6.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.69.0" />
+  </ItemGroup>
+</Project>

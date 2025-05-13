@@ -1,0 +1,17 @@
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Persistence.deps.json
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Persistence.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/bin/Debug/net8.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.AssemblyInfo.cs
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBank.6844AC7F.Up2Date
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/refint/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/OpenBankAPI.Persistence.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Infrastructure/OpenBankAPI.Persistence/obj/Debug/net8.0/ref/OpenBankAPI.Persistence.dll

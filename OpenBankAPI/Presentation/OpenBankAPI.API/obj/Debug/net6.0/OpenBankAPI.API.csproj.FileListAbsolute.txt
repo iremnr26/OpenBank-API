@@ -1,0 +1,806 @@
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.deps.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.runtimeconfig.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MySqlConnector.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Common.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/scopedcss/bundle/OpenBankAPI.API.styles.css
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj 2/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.genruntimeconfig.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.deps.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.runtimeconfig.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MySqlConnector.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Common.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/scopedcss/bundle/OpenBankAPI.API.styles.css
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.genruntimeconfig.cache
+/Users/iremnur/Desktop/Staj /OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.deps.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.runtimeconfig.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Google.Apis.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MediatR.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/MySqlConnector.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Common.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.CodeDom.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Management.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Persistence.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Infrastructure.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/bin/Debug/net6.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.AssemblyInfo.cs
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/scopedcss/bundle/OpenBankAPI.API.styles.css
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.csproj.CopyComplete
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/ref/OpenBankAPI.API.dll
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.pdb
+/Users/iremnur/Desktop/Staj/OpenBankAPI/Presentation/OpenBankAPI.API/obj/Debug/net6.0/OpenBankAPI.API.genruntimeconfig.cache

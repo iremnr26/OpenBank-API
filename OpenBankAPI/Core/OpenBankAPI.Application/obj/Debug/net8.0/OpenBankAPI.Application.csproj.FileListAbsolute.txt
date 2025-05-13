@@ -1,0 +1,15 @@
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/bin/Debug/net8.0/OpenBankAPI.Application.deps.json
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/bin/Debug/net8.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/bin/Debug/net8.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/bin/Debug/net8.0/OpenBankAPI.Domain.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/bin/Debug/net8.0/OpenBankAPI.Domain.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.csproj.AssemblyReference.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.AssemblyInfoInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.AssemblyInfo.cs
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.csproj.CoreCompileInputs.cache
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBank.B309A92C.Up2Date
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/refint/OpenBankAPI.Application.dll
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/OpenBankAPI.Application.pdb
+/Users/iremnur/Desktop/staj/OpenBankAPI/Core/OpenBankAPI.Application/obj/Debug/net8.0/ref/OpenBankAPI.Application.dll
